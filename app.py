@@ -224,9 +224,10 @@ elif st.session_state.page=="analysis":
         weight=4
     ).add_to(m)
 
+    car_icon_url = https://toppng.com/show_download/76232/car-top-view-transparent
     vehicle_icon = CustomIcon(
-        https://toppng.com/show_download/76232/car-top-view-transparent,
-        icon_size=(35,35)
+        car_icon_url,
+        icon_size=(45, 45)
     )
 
     folium.Marker(
