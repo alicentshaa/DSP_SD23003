@@ -3,3 +3,6 @@ pandas
 folium
 streamlit-folium
 plotly
+matplotlib
+scikit-learn
+tensorflow
