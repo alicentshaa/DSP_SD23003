@@ -225,7 +225,7 @@ elif st.session_state.page=="analysis":
     ).add_to(m)
 
     vehicle_icon = CustomIcon(
-        r"C:\Users\Owner\Desktop\UMPSA\SEM 6\DSP 2\DASHCAM ANALYTICS\images.jpg",
+        https://toppng.com/show_download/76232/car-top-view-transparent,
         icon_size=(35,35)
     )
 
