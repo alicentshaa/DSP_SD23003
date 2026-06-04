@@ -4,4 +4,10 @@ folium
 streamlit-folium
 plotly
 matplotlib
+seaborn
+numpy
+hashlib
+os
+tempfile
+time
 scikit-learn
